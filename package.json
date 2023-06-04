@@ -21,8 +21,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "mern",
-      "mern/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
