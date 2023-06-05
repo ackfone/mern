@@ -1,0 +1,11 @@
+.overall{
+    height: 100vh;
+    display: flex;
+    align-items: center; /* align conter center vertically when using display as flex*/
+    justify-content: center; /* align conter center horizotaly  when using display as flex*/
+}
+
+.jumbotron{
+    width: 40vh;
+    box-shadow: 0px 0px 15px -5px black;
+}
